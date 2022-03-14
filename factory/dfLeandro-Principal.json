@@ -1,0 +1,9 @@
+{
+	"name": "dfLeandro-Principal",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19f3a730-b4dd-4349-8e15-d6d46fe460dc",
+		"tenantId": "c0a8d682-5fe2-42fb-810e-4e0b3459ce82"
+	}
+}
