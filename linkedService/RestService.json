@@ -9,7 +9,7 @@
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous",
 			"authHeaders": {
-				"airport-info.p.rapidapi.com": {
+				"APIKey": {
 					"type": "SecureString",
 					"value": "**********"
 				}
