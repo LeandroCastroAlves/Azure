@@ -1,0 +1,19 @@
+{
+	"name": "RestService",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://airport-info.p.rapidapi.com/airport",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous",
+			"authHeaders": {
+				"airport-info.p.rapidapi.com": {
+					"type": "SecureString",
+					"value": "**********"
+				}
+			}
+		}
+	}
+}
